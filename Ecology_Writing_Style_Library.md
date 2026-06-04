@@ -54,10 +54,10 @@
 > Funnel structure: broad context narrowing to a specific question; clear statement of the knowledge gap and study aim.
 
 ### I1
-- Source (journal / year):
+- Source (Nature / 2019):
 - Text:
 ```
-
+Microbial symbionts strongly influence the functioning of forest ecosystems. Root-associated microorganisms exploit inorganic, organic and/or atmospheric forms of nutrients that enable plant growth, determine how trees respond to increased concentrations6 of CO2, regulate the respiratory activity of soil microorganisms and affect plant species diversity by altering the strength of conspecific negative density dependence. Despite the growing recognition of the importance of root symbioses for forest functioning and the potential to integrate symbiotic status into Earth system models that predict functional changes to the terrestrial biosphere10, we lack spatially explicit quantitative maps of root symbioses at the global scale. Quantitative maps of tree symbiotic states would link the biogeography of functional traits of belowground microbial symbionts with their 3.1 trillion host trees, which are spread across Earth’s forests, woodlands and savannahs.
 ```
 
 ### I2
