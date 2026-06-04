@@ -61,10 +61,10 @@ Microbial symbionts strongly influence the functioning of forest ecosystems. Roo
 ```
 
 ### I2
-- Source (journal / year):
+- Source (Nature / 2019):
 - Text:
 ```
-
+One of the earliest efforts to understand the functional biogeography of plant root symbioses categorically classified biomes by their perceived dominant mycorrhizal type, and hypothesized that seasonal climates favour hosts that associate with ectomycorrhizal fungi (owing to the ability of these hosts to compete directly for organic nitrogen). By contrast, it has more recently been proposed that sensitivity to low temperatures has prevented N-fixers from dominating outside of the tropics, despite the potential for nitrogen fixation to alleviate nitrogen limitation in boreal forests. However, global-scale tests of these proposed biogeographical patterns and their climate drivers are lacking. To address this, we compiled a global ground-sourced survey database to reveal the numerical abundances of each type of symbiosis across the globe. Such a database is essential for identifying the potential mechanisms that underlie transitions in forest symbiotic state along climatic gradients.
 ```
 
 ### I3
