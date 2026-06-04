@@ -8,7 +8,7 @@
 
 ## Selection Criteria (when choosing what to put in Preferred)
 
-- From flagship journals (Ecology Letters, Ecology, Journal of Ecology, Methods in Ecology and Evolution, Functional Ecology, Global Ecology and Biogeography, etc.).
+- From flagship journals (Nature, Nature ecology & evolution, Nature climate change, Global change biology, Ecology Letters, Ecology, Journal of Ecology, etc.).
 - Restrained sentences, conservative punctuation (few dashes), no inflated wording, appropriate hedging.
 - Same function as the text you will polish (collect Methods passages to polish Methods).
 - Within one Preferred set, keep the style consistent; avoid mixing very different voices.
