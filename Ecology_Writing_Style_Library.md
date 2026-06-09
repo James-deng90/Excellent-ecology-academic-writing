@@ -28,18 +28,26 @@ Mycorrhizal fungi are essential to the establishment of the vast majority of pla
 ```
 
 ### A2
-- Source (journal / year):
+- Source (Nature Ecology & Evolution / 2024):
 - Text:
 ```
-
+Mycorrhizal fungi are essential to the establishment of the vast majority of plant species but are often conceptualized with contradictory roles in plant community assembly. On the one hand, host-specific mycorrhizal fungi may allow a plant to be competitively dominant by enhancing growth. On the other hand, host-specific mycorrhizal fungi with different functional capabilities may increase nutrient niche partitioning, allowing plant species to coexist. Here, to resolve the balance of these two contradictory forces, we used a controlled greenhouse study to manipulate the presence of two main types of mycorrhizal fungus, ectomycorrhizal fungi and arbuscular mycorrhizal fungi, and used a range of conspecific and heterospecific competitor densities to investigate the role of mycorrhizal fungi in plant competition and coexistence. We find that the presence of arbuscular mycorrhizal fungi equalizes fitness differences between plants and stabilizes competition to create conditions for host species coexistence. Our results show how below-ground mutualisms can shift outcomes of plant competition and that a holistic view of plant communities that incorporates their mycorrhizal partners is important in predicting plant community dynamics.
 ```
 
 ### A3
-- Source (journal / year):
+- Source (Nature Ecology & Evolution / 2022):
 - Text:
 ```
-
+Most trees on Earth form a symbiosis with either arbuscular mycorrhizal or ectomycorrhizal fungi. By forming common mycorrhizal networks, actively modifying the soil environment and other ecological mechanisms, these contrasting symbioses may generate positive feedbacks that favour their own mycorrhizal strategy (that is, the con-mycorrhizal strategy) at the expense of the alternative strategy. Positive con-mycorrhizal feedbacks set the stage for alternative stable states of forests and their fungi, where the presence of different forest mycorrhizal strategies is determined not only by external environmental conditions but also mycorrhiza-mediated feedbacks embedded within the forest ecosystem. Here, we test this hypothesis using thousands of US forest inventory sites to show that arbuscular and ectomycorrhizal tree recruitment and survival exhibit positive con-mycorrhizal density dependence. Data-driven simulations show that these positive feedbacks are sufficient in magnitude to generate and maintain alternative stable states of the forest mycobiome. Given the links between forest mycorrhizal strategy and carbon sequestration potential, the presence of mycorrhizal-mediated alternative stable states affects how we forecast forest composition, carbon sequestration and terrestrial climate feedbacks.
 ```
+
+### A4
+- Source (Nature Communications / 2025):
+- Text:
+```
+Environmental protection strategies often rely on aboveground biodiversity indicators for prioritising conservation efforts. However, substantial biodiversity exists belowground, and it remains unclear whether aboveground diversity hotspots are indicative of high soil biodiversity. Using geospatial layers of vascular plant, arbuscular mycorrhizal fungi, and ectomycorrhizal fungi alpha diversity, we map plant–fungal diversity associations across different scales and evaluate evidence for potential correlation drivers. Plant–fungal diversity correlations are weak at the global scale but stronger at regional scales. Plant–arbuscular mycorrhizal fungal correlations are generally negative in forest biomes and positive in grassland biomes, whereas plant–ectomycorrhizal fungal correlations are mostly positive or neutral. We find evidence that symbiosis strength, environmental covariation, and legacy effects all influence correlation patterns. Only 8.8% of arbuscular mycorrhizal and 1.5% of ectomycorrhizal fungal diversity hotspots overlap with plant hotspots, indicating that prioritising conservation based solely on aboveground diversity may fail to capture diverse belowground regions.
+```
+
 
 ## Repository (browse only, not read by AI)
 ```
