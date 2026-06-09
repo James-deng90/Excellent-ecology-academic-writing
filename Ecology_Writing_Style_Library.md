@@ -87,24 +87,31 @@ Several field experiments have shown that plant diversity–productivity relatio
 > Past tense; balance of active and passive voice; reproducible but not verbose; precise statistical phrasing.
 
 ### M1
-- Source (journal / year):
+- Source (Nature Communications / 2025):
 - Text:
 ```
-
+Data collection
+We used previously published global predictions of AM and ECM fungal richness from Van Nuland et al. and Mikryukov et al., and vascular plant richness from Sabatini et al. and Cai et al.. Both of the fungal richness studies generated predictions at 30 arc-s resolution (~1 km2 at the equator). Van Nuland et al.26 used random forest models trained on ITS sequences for ECM fungi and SSU sequences for AM fungi from the GlobalFungi and GlobalAMFungi database. Mikryukov et al. used boosted regression trees with sequence data from the Global Soil Mycobiome consortium (https://gsmc-fungi.github.io/). For vascular plants, Sabatini et al. modelled forest and non-forest vascular plant richness separately at 2.5 arc-min resolution (~4.63 km2 at the equator) using boosted regression trees with data from the vegetation plot database ‘sPlot’ from multiple plot sizes ranging between 10 m2 and 10,000 m2 (www.idiv.de/splot). We selected the joined forest and non-forest prediction that was based on data from plot sizes of 1000 m2. Cai et al. built vascular plant richness models using the regional checklists of native vascular plants in the GIFT database as training data and five modelling methods to generate consensus predictions for 7774 km2 hexagons (generalised linear models, generalised additive models (GAMs), random forest models, extreme gradient boosting, and neural networks). We selected the interpolated ensemble prediction raster (average of the five modelling methods weighted by model accuracy). Both vascular plant layers were provided by the authors resampled at 30 arc-s resolution. We reprojected all layers to Equal Earth projection at 1 km2 resolution using the ‘terra’ package version 1.7-7856 in R version 4.4.157.
 ```
 
 ### M2
-- Source (journal / year):
+- Source (Nature Ecology & Evolution / 2022):
 - Text:
 ```
+For this study, we used publicly available data from the U.S. Department of Agriculture Forest Service, known as the Forest Inventory and Analysis (FIA) programme. Data were accessed from https://apps.fs.usda.gov/fia/datamart/CSV/datamart_csv.html on 28 February 2020. The primary objective of the FIA is to determine the extent, condition, volume, growth and use of trees on US forest land to frame realistic forest policies and programmes10. This database has been used to address many ecological questions across large scales and gradients11,31,32. Plots are distributed relatively evenly in forested areas across all of the lower 48 contiguous states. Plot location uncertainty is generally <1.6 km but locations are sometimes deliberately exchanged within a given county due to potential issues regarding plot integrity and landowner privacy10. Each standard plot consists of four 7.3 m radius circular subplots (168 m2) within which all stems >12.7 cm diameter at breast height (DBH) are identified to species and measured. There is one centre subplot surrounded by the 3 peripheral subplots, each at a distance of 36.6 m from the centre subplot.
 
+Before our analyses, the dataset was filtered using several criteria according to the FIA user guide for phase 2 (ref. 10). First, we only kept census data from the most recent year for a given plot (range: 1995–2019; median: 2015), in cases where a plot was sampled more than once. Second, we retained plots following both standard production and standardized methods (that is, ‘sample kind code’ of 1, 2 or 3) and a similar sampling design within the 4 subplots where all stems >12.7 cm DBH were measured (that is, with a ‘plot design code’ of 1, 220, 240, 311, 314, 328, 502 or 505). Finally, we only used data taken using the National Field procedures in forested, natural and undisturbed stands with no observable recent silvicultural treatment. If data were missing for any measured values or variables, the plots were excluded. Otherwise, plots were retained for further analyses if more than four individual trees were present. From 1,557,871 available plots measurements, we analysed data for 82,393 plots containing 1,984,883 trees.
 ```
 
 ### M3
-- Source (journal / year):
+- Source (Nature Ecology & Evolution / 2024):
 - Text:
 ```
+Experimental design and planting
+This experiment utilized a fully factorial design with four mycorrhizal treatments, two focal plant species, conspecific/heterospecific competition and four different competition densities (Fig. 1). This experimental design (across the different microbial treatments, densities and competitors) was selected as it enabled us to employ recently developed models that incorporate microbial communities into MCT, allowing us to explicitly test the role of EMF and AMF in plant species coexistence. With each focal seedling, we planted zero, one, four or eight either conspecific or heterospecific competitors. Each planting combination was performed across four different mycorrhizal treatments: (1) no mycorrhizal fungi, (2) EMF, (3) AMF and (4) both EMF and AMF. Each unique combination was replicated six times for a total of two focal plant species × four planting densities × two competitor types × four mycorrhizal treatments × six replicates = 384 pots.
 
+Field and biological collections
+Field soils were collected from Point Reyes in November 2019 from a mixed scrub–grassland site previously established to have a low density of EMF (at least 4.2 km away from the nearest edge of Pinus stands). We specifically selected EMF-free soils as EMF spores are often more heat resistant and thus more likely to carry over into our different mycorrhizal treatments than AMF spores, even after autoclaving. Soils were collected using ethanol-sterilized shovels and stored at 4 °C. To characterize the nutrient availability from these soils, we planted plant root simulators probes (Western Ag. Innovations Inc.) in the same pots used for the experiment for 9 weeks. Soil nutrient data can be found in Supplementary Table 2.
 ```
 
 ## Repository (browse only, not read by AI)
