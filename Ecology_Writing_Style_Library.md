@@ -114,6 +114,18 @@ Field and biological collections
 Field soils were collected from Point Reyes in November 2019 from a mixed scrub–grassland site previously established to have a low density of EMF (at least 4.2 km away from the nearest edge of Pinus stands). We specifically selected EMF-free soils as EMF spores are often more heat resistant and thus more likely to carry over into our different mycorrhizal treatments than AMF spores, even after autoclaving. Soils were collected using ethanol-sterilized shovels and stored at 4 °C. To characterize the nutrient availability from these soils, we planted plant root simulators probes (Western Ag. Innovations Inc.) in the same pots used for the experiment for 9 weeks. Soil nutrient data can be found in Supplementary Table 2.
 ```
 
+### M4
+- Source (Nature Ecology & Evolution / 2022):
+- Text:
+```
+Exploring plot and species-level random effects
+In our full analysis of tree growth and mortality we would ideally account non-independence of individuals within survey plots as a random effect within statistical models. However, because of computational limitations, we could only include the larger spatial unit of county as a random effect in our analysis. To evaluate the potential influence of this decision, we fit models of mortality to a subregion of the data, the Atlantic Highlands EPA ecoregion, with either county-level or plot-level random effects and then evaluated how the choice plot versus county random effect influenced the effect on EM tree relative abundance of EM tree mortality probability. The effect of EM tree relative abundance on EM tree mortality probability was nearly indistinguishable among models, with highly overlapping 95% confidence interval (CI) (Extended Data Fig. 8d–f). Therefore, we concluded that the coarser spatial random effect of county was sufficient to account for spatial non-independence within our analysis.
+
+Similarly, different tree species can vary in growth and mortality rates and this may similarly bias our estimates of the role of mycorrhizal strategy. To investigate the relative importance of species effects in our overall analysis, we refit models to a subregion of the data, the Atlantic Highlands EPA ecoregion, with or without species-level random effects and then evaluated how the choice plot versus county random effect influenced the effect on EM tree relative abundance of EM tree mortality probability. The effect of EM tree relative abundance on EM tree mortality probability was nearly indistinguishable among models, with highly overlapping 95% CI (Extended Data Fig. 8d–f). Therefore, we concluded that species-level random effects were not necessary to understand the continental drivers of positive con-mycorrhizal feedbacks in demographic processes.
+```
+
+
+
 ## Repository (browse only, not read by AI)
 ```
 
